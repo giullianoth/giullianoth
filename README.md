@@ -1,4 +1,4 @@
-Olá, eu sou o **Giulliano Guimarães**, sou desenvolvedor front-end.
+## Olá, eu sou o **Giulliano Guimarães**, sou desenvolvedor front-end.
 
 Aqui eu publico alguns dos meus projetos pessoais dos quais me orgulho de ter conseguido construir.
 
