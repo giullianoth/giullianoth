@@ -1,4 +1,4 @@
-## Olá, eu sou o Giulliano Guimarães! | Hello, I'm Giulliano Guimarães!
+## Olá, eu sou o Giulliano Guimarães! | Hello, I'm Giulliano Guimarães! ✌
 
 Aqui eu publico alguns dos meus projetos pessoais de web design / front-end dos quais me orgulho de ter conseguido construir.
 
@@ -44,5 +44,14 @@ Gosto de trabalhar em equipe; unir forças para a realização de determinada at
 
 I like to work in a team; join forces to carry out a certain activity, rely on the help of more experienced people and share my knowledge with those who are just starting out. I like to be committed to my tasks and deadlines. I like it and I try to deliver a result with excellence.
 
+![Giulliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giullianoth&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giullianoth)](https://github.com/giullianoth/github-readme-stats)
+
+---
+
 Me encontre nas minhas redes! | Find me on my networks!
-LinkedIn Instagram E-mail Phone Portfolio
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/giullianoth/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giullianoth/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:llthguimaraes@gmail.com)
