@@ -54,7 +54,7 @@ Sou um profissional **comprometido** com tarefas e prazos. Valorizo a **colabora
 
 Este card mostra a minha sequência máxima e atual de dias de contribuição no GitHub:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=giullianoth)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=giullianoth&locale=pt_BR)](https://git.io/streak-stats)
 
 #### 💻 Linguagens Mais Utilizadas
 
