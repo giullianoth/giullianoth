@@ -54,17 +54,13 @@ Sou um profissional **comprometido** com tarefas e prazos. Valorizo a **colabora
 
 Este card mostra a minha sequência máxima e atual de dias de contribuição no GitHub:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giullianoth&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=giullianoth&theme=dark&locale=pt_BR)
 
 #### ⭐ Estatísticas Gerais do Perfil
 
 Este card mostra os meus commits, Pull Requests, Stars e mais:
 
 ![Giulliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giullianoth&show_icons=true&theme=dark&locale=pt)
-
----
-
----
 
 ---
 
