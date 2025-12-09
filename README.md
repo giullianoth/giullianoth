@@ -48,17 +48,21 @@ Sou um profissional **comprometido** com tarefas e prazos. Valorizo a **colabora
 
 ---
 
-### 📊 Atividade e Linguagens Favoritas | Activity & Top Languages
+### 📊 Atividade e Estatísticas | Activity & Stats
 
 #### 🔥 Sequência de Contribuição (Streak)
 
 Este card mostra a minha sequência máxima e atual de dias de contribuição no GitHub:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=giullianoth&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giullianoth&theme=dark)
 
-#### 💻 Linguagens Mais Utilizadas
+#### ⭐ Estatísticas Gerais do Perfil
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giullianoth&layout=compact&langs_count=6&theme=dark)](https://github.com/giullianoth/github-readme-stats)
+Este card mostra os meus commits, Pull Requests, Stars e mais:
+
+![Giulliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=giullianoth&show_icons=true&theme=dark&locale=pt)
+
+---
 
 ---
 
