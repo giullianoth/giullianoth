@@ -26,11 +26,11 @@ Minhas principais ferramentas e tecnologias dominadas | *My main tools and techn
 
 | Domínio Principal <br> *Main Domain* | CMS/Frameworks | Já Trabalhei Com <br> *I've worked with* |
 | :--- | :--- | :--- |
-| **HTML5** | **Wordpress** + Elementor | Node JS |
-| **CSS3** | **jQuery** | TypeScript |
-| **JavaScript** | **Bootstrap** | PHP |
-| **Sass** | | SQL |
-| | | React JS |
+| **HTML5** | **Wordpress** + Elementor | PHP |
+| **CSS3** | **jQuery** | SQL |
+| **JavaScript** | **Bootstrap** |  |
+| **Sass** | **React JS** |  |
+| **TypeScript** | **Node JS** | |
 
 #### 🎨 Design Gráfico & Ferramentas Adobe | Graphic Design & Adobe Tools
 
