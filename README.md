@@ -27,7 +27,6 @@ Minhas principais ferramentas e tecnologias dominadas:
 | **JavaScript** | **Bootstrap** | PHP |
 | **Sass** | | SQL |
 | | | React JS |
-| | | Angular |
 
 *I also work with CMS, mainly Wordpress (with Elementor), and the libs/frameworks jQuery and Bootstrap.*
 
@@ -37,6 +36,7 @@ Minhas principais ferramentas e tecnologias dominadas:
 * **Illustrator**
 * **InDesign**
 * **XD**
+* **Figma**
 
 ---
 
