@@ -58,7 +58,7 @@ Este card mostra a minha sequência máxima e atual de dias de contribuição no
 
 *This card shows my current highest streak of contribution days on GitHub:*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=giullianoth&theme=dark&locale=pt_BR)
+![giullianoth's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giullianoth&theme=dark&hide_border=true)
 
 #### ⭐ Estatísticas Gerais do Perfil | General Profile Statistics
 
